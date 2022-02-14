@@ -19,7 +19,7 @@ Contact me:
 
 
 <h1 align="center"><a href="https://github.com/anuraghazra/convoychat" style="text-align:center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolev&show_icons=true&theme=radical&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolev&show_icons=true&theme=merko&layout=compact&line_height=20" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
