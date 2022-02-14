@@ -15,7 +15,6 @@ lots of NoSQL databases like Casandra, Neo4j, MongoDB, and more.
 
 Contact me:
 - 📫 Email: dolevhindy@gmail.com
-- 
 - 💬 LinkedIn: https://www.linkedin.com/in/dolev-hindy-49924a152/
 
 
