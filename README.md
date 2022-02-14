@@ -1,6 +1,6 @@
 
-## Hello workmates, My name is **Dolev Hindy**, I'm a Program Developer.
-# I'm a Bachelor in Computer Science and Mathematics at Ariel Univerity 
+# Hello workmates, My name is **Dolev Hindy**, I'm a Program Developer.
+## I'm a Bachelor in Computer Science and Mathematics at Ariel Univerity 
 Ready to start my new job that will exhaust my abilities.
 - I’m currently working at : Nof Yaldot Elementary School as a teacher
 - I’m currently learning ... Java, Python,  C#, C and C++.
