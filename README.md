@@ -18,8 +18,9 @@ Contact me:
 - 💬 LinkedIn: https://www.linkedin.com/in/dolev-hindy-49924a152/
 
 
-<center><a href="https://github.com/anuraghazra/convoychat">
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolev&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
-</a><a href="https://github.com/anuraghazra/github-readme-stats"></center>
+</a>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats"></center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolev&theme=slateorange&layout=compact" />
 </a>
