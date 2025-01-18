@@ -2,7 +2,8 @@
 # Hello workmates, my name is *Dolev Hindy*, I'm a Program Developer.
 ## I have a Bachelor's in Computer Science and Mathematics at Ariel University 
 I am ready to start my new job that will exhaust my abilities.
-- I’m currently working at: Migdal Development Service. (RPGLE language + COBOL language in cl program platform) 3 years of 
+- I’m currently working at: Migdal Development Service. (RPGLE language + COBOL language in cl program platform) 3 years of experience.
+
 - I’m currently learning Java, Python, C#, and C++.
 - Languages I have used: Racket, Angular, JavaScript, Node.js.
 - I have additional knowledge in topics like deep learning, machine learning, SQL databases based on Relational Algebra, also kinds of NoSQL databases(non-tabular databases that store data differently-document, key-value, wide-column, and graph) like Casandra, Neo4j, MongoDB, and more.
