@@ -1,7 +1,7 @@
 
 # Hello friends, my name is *Dolev Hindy*, at the moment I'm an RPG programmer.
 ## I earned a Bachelor's in Computer Science and Mathematics at Ariel University in 2022. 
-- I’m currently working in: Development Service at the insurance company MGDAL. (RPGLE language + COBOL language in cl program platform) 3 years of experience.
+- I’m currently working in: Development Service at the insurance company Migdal. (RPGLE language + COBOL language in cl program platform) 3 years of experience.
 - Program languages I have used in university: Java, Python, C#, and C++.
 - Languages I have used: Racket, Angular, JavaScript, Node.js.
 - I have additional knowledge in topics like deep learning, machine learning, SQL databases based on Relational Algebra, also kinds of NoSQL databases(non-tabular databases that store data differently-document, key-value, wide-column, and graph) like Casandra, Neo4j, MongoDB, and more.
