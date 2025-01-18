@@ -2,7 +2,7 @@
 # Hello workmates, my name is *Dolev Hindy*, I'm a Program Developer.
 ## I'm a Bachelor in Computer Science and Mathematics at Ariel Univerity 
 Ready to start my new job that will exhaust my abilities.
-- I’m currently working at : Nof Yaldot Elementary School as a teacher
+- I’m currently working at: Migdal development service.
 - I’m currently learning ... Java, Python,  C#, C and C++.
 - Languages I have used in the past ... Racket, Angular, Java Script, Node.js.
 - I have additional knowledge in topics like, deep learning, machine learning, SQL databases as based on Relational Algebra,
